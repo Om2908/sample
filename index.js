@@ -62,6 +62,7 @@ let arr=[
     {
         name:"raj",
         age:20
+        username:"om"
     }
 ];
 console.log(arr[1])
